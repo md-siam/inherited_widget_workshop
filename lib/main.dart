@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inherited_widget_workshop/view/store_page.dart';
+import 'view/store_page.dart';
 
 final GlobalKey<ShoppingCartIconState> shoppingCart =
     GlobalKey<ShoppingCartIconState>();
