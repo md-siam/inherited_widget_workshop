@@ -26,10 +26,10 @@ Inherited Widget workshop → [here](https://dartpad.dev/workshops.html?webserve
 ## File Pattern Inside The `lib` Folder
 
 ```
-lib
-├── server
+lib/
+├── server/
 │   └── server.dart
-├── view
+├── view/
 │   ├── widget
 │   │   └── product_tile.dart
 │   └── store_page.dart
